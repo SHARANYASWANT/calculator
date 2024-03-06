@@ -27,6 +27,12 @@ body{
     color: #ffffff;
 }
 
+.select{
+    background: transparent;
+    color: #ffffff;
+    border: none;
+}
+
 .input{
     width: 320px;
     border: none;
