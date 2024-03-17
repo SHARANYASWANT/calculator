@@ -33,7 +33,7 @@ body{
     border: none;
 }
 
-.input{
+#input{
     width: 320px;
     border: none;
     background: transparent;
@@ -46,7 +46,7 @@ body{
     box-shadow: 0px 3px 15px rgba(84, 84, 84, 0.1);
 }
 
-input::placeholder{
+#input::placeholder{
     color: #ffffff;
 }
 

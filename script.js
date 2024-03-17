@@ -83,7 +83,7 @@
 //     });
 // });
 
-let dissplay = document.getElementsByClassName("input");
+let dissplay = document.getElementById("input");
 
 function displaytext(input){
     dissplay.value += input; 
